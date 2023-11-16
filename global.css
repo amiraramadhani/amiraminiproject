@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-nunito: Nunito;
+  --font-inria-sans: "Inria Sans";
+  --font-javanese-text: "Javanese Text";
+  --body-regular-body-1: Inter;
+  --font-inria-serif: "Inria Serif";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --body-regular-body-3-size: 14px;
+  --heading-headline-4-size: 20px;
+  --body-regular-body-1-size: 18px;
+  --heading-headline-2-size: 36px;
+  --body-regular-body-2-size: 16px;
+  --heading-headline-3-size: 28px;
+
+  /* Colors */
+  --color-gray-100: #081a21;
+  --color-black: #000;
+  --neutral-black: #263238;
+  --text-gray-300: #d9dbe1;
+  --default-white: #fff;
+  --neutral-silver: #f5f7fa;
+  --neutral-grey: #717171;
+  --neutral-d-grey: #4d4d4d;
+  --neutral-l-grey: #89939e;
+  --brand-primary: #4caf4f;
+
+  /* Gaps */
+  --gap-106xl: 125px;
+  --gap-11xl: 30px;
+  --gap-5xl: 24px;
+  --gap-xs: 12px;
+  --gap-21xl: 40px;
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+  --gap-3xs-9: 9.9px;
+
+  /* Paddings */
+  --padding-45xl: 64px;
+  --padding-146xl: 165px;
+  --padding-sm: 14px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+}
